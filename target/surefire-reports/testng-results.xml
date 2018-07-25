@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="demo.TestDriver" duration-ms="24414" started-at="2018-07-25T18:58:45Z" finished-at="2018-07-25T18:59:10Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="24414" started-at="2018-07-25T18:58:45Z" finished-at="2018-07-25T18:59:10Z">
+      <class name="demo.TestDriver">
+        <test-method status="PASS" signature="runner()[pri:0, instance:demo.TestDriver@3498ed]" name="runner" duration-ms="24374" started-at="2018-07-25T18:58:45Z" finished-at="2018-07-25T18:59:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runner -->
+      </class> <!-- demo.TestDriver -->
+    </test> <!-- Command line test -->
+  </suite> <!-- demo.TestDriver -->
+</testng-results>
